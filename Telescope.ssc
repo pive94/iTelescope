@@ -1,0 +1,4 @@
+while (1){
+TelescopeControl.slewTelescopeToSelectedObject(1);
+core.wait(3)
+}
